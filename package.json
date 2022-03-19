@@ -1,0 +1,24 @@
+{
+  "name": "react-course",
+  "version": "1.0.0",
+  "description": "Patika.dev's React Course tasks",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranarsay/React-Course.git"
+  },
+  "author": "hilal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranarsay/React-Course/issues"
+  },
+  "homepage": "https://github.com/ranarsay/React-Course#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
